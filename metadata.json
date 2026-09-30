@@ -1,0 +1,6 @@
+{
+  "name": "3D ULPIN & Vertical Property Mapping",
+  "description": "Government-grade GIS and 3D Vertical Property Intelligence platform transforming 2D land parcels into multi-floor 3D spatial properties with unique ULPIN linkage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
